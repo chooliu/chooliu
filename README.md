@@ -1,0 +1,1 @@
+Howdy! ☀️ I'm a bioinformatician in the UCLA Department of Human Genetics, working on challenges in **multiomics integration** and **genetic association testing** with single-cell data. Previously: 🎓📈 biostatistics consulting at CU Anschutz, 🔬 molecular biologist in next-generation sequencing, and ✨ data science for social good organizer.
